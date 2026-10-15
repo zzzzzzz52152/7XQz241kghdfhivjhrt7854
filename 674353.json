@@ -47,5 +47,7 @@
     { "clave": "C6G3L7K1R", "dias": 365 },
     { "clave": "V8S9T5W4H", "dias": 365 }
   ],
-  "claves_revocadas": []
+  "claves_revocadas": [
+    "HX8KTF6H7"
+  ]
 }
