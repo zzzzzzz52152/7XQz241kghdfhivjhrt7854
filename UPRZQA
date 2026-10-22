@@ -1,0 +1,63 @@
+{
+  "claves_fijas": [
+    { "clave": "K7JL09MIA", "expira": "2026-10-25T23:59:59" },
+    { "clave": "SZN0EUTSU", "expira": "2026-10-25T23:59:59" },
+    { "clave": "AIC1W2NVU", "expira": "2026-10-25T23:59:59" },
+    { "clave": "ZRJYPEUIT", "expira": "2026-10-25T23:59:59" },
+    { "clave": "HIADGO1TR", "expira": "2026-10-25T23:59:59" },
+    { "clave": "7QXLZFOJJ", "expira": "2026-10-25T23:59:59" },
+    { "clave": "3RRJQWTKO", "expira": "2026-10-25T23:59:59" },
+    { "clave": "6OCKFNWN9", "expira": "2026-10-25T23:59:59" },
+    { "clave": "O7F4I6VV7", "expira": "2026-10-25T23:59:59" },
+    { "clave": "UOZKWMXQO", "expira": "2026-10-21T23:59:59" }
+  ],
+  "claves_7_dias": [
+    { "clave": "ULM1T1J5L", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "90OGW4AQL", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "EQSJL9K4Q", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "NA6OWLET9", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "2HG9V4GRS", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "CTNT1YU0Y", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "GB2MGGHR2", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "0ZKH7C1YP", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "ENQV8GCZ8", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 },
+    { "clave": "OFXCR8XGF", "fecha_creacion": "2026-10-21T00:00:00", "dias": 7 }
+  ],
+  "claves_30_dias": [
+    { "clave": "9W8TUMEPH", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "F44DJ9F1J", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "TMFLI444L", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "EBA1OKU64", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "CFJW1LLIV", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "NS0KKF6WN", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "2D7OSHE5I", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "ZMI27YKHP", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "BI2AT0WED", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 },
+    { "clave": "MRVAD5Q5G", "fecha_creacion": "2026-10-21T00:00:00", "dias": 30 }
+  ],
+  "claves_un_ano": [
+    { "clave": "TTOFRP5TO", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "RLE4RIS8W", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "5BHVYT4OV", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "QWRNW6L0M", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "YSASE1JMN", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "D00W7IAE8", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "I5BPQ6M4C", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "WO6STNU6N", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "4LT7O7B1H", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
+    { "clave": "9TU3Q4B3D", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 }
+  ],
+  "claves_por_vida": [
+    { "clave": "JYLOVL7O8", "ilimitado": true },
+    { "clave": "DTU43KAST", "ilimitado": true },
+    { "clave": "13X1F04QA", "ilimitado": true },
+    { "clave": "M7ZM1UQ88", "ilimitado": true },
+    { "clave": "DZ56R1KFS", "ilimitado": true },
+    { "clave": "MINP2Y6J3", "ilimitado": true },
+    { "clave": "S6JKPP1T0", "ilimitado": true },
+    { "clave": "0CMKJ7XIC", "ilimitado": true },
+    { "clave": "O2V8FOXO1", "ilimitado": true },
+    { "clave": "EGXE27D08", "ilimitado": true },
+  ],
+  "claves_revocadas": []
+}
