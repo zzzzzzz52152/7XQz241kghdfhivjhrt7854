@@ -9,7 +9,8 @@
     { "clave": "RC1Z8HW73", "expira": "2026-10-25T23:59:59" },
     { "clave": "TM5K6NB20", "expira": "2026-10-25T23:59:59" },
     { "clave": "PW8Y4SX96", "expira": "2026-10-25T23:59:59" },
-    { "clave": "DL7Q2FR14", "expira": "2026-10-21T23:59:59" }
+    { "clave": "DL7Q2FR14", "expira": "2026-10-21T23:59:59" },
+    { "clave": "RT23ZXK19", "expira": "2026-10-25T23:59:59" }
   ],
   "claves_7_dias": [
     { "clave": "K7M2L9P4X", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
