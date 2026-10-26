@@ -1,16 +1,15 @@
 {
   "claves_fijas": [
-    { "clave": "HX8KTF6H7", "expira": "2026-10-25T23:59:59" },
-    { "clave": "DT3M9RX52", "expira": "2026-10-25T23:59:59" },
-    { "clave": "ZP6W1HJ88", "expira": "2026-10-25T23:59:59" },
-    { "clave": "BF4N7QC31", "expira": "2026-10-25T23:59:59" },
-    { "clave": "KY2V5DT69", "expira": "2026-10-25T23:59:59" },
-    { "clave": "XJ9L3GP45", "expira": "2026-10-25T23:59:59" },
-    { "clave": "RC1Z8HW73", "expira": "2026-10-25T23:59:59" },
-    { "clave": "TM5K6NB20", "expira": "2026-10-25T23:59:59" },
-    { "clave": "PW8Y4SX96", "expira": "2026-10-25T23:59:59" },
-    { "clave": "DL7Q2FR14", "expira": "2026-10-21T23:59:59" },
-    { "clave": "RT23ZXK19", "expira": "2026-10-25T23:59:59" }
+    { "clave": "MK9V2LP45", "expira": "2026-11-02T23:59:59" },
+    { "clave": "TR4X8JH61", "expira": "2026-11-02T23:59:59" },
+    { "clave": "QW7N3MF89", "expira": "2026-11-02T23:59:59" },
+    { "clave": "ZP1K6DS23", "expira": "2026-11-02T23:59:59" },
+    { "clave": "HX5Y9RT74", "expira": "2026-11-02T23:59:59" },
+    { "clave": "BF8C2WP38", "expira": "2026-11-02T23:59:59" },
+    { "clave": "LJ3M7QX12", "expira": "2026-11-02T23:59:59" },
+    { "clave": "DT6V4NK90", "expira": "2026-11-02T23:59:59" },
+    { "clave": "RC9Z1HS56", "expira": "2026-11-02T23:59:59" },
+    { "clave": "GP2W8FB67", "expira": "2026-11-02T23:59:59" }
   ],
   "claves_7_dias": [
     { "clave": "K7M2L9P4X", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
