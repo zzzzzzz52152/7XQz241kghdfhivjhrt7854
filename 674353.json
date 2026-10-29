@@ -24,17 +24,18 @@
     { "clave": "UL2W7F9X86", "dias": -1 },
     { "clave": "@RP061", "dias": -1 }
   ],
+  {
   "claves_7_dias": [
-    { "clave": "K7M2L9P4X", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "R3W8N5H2Q", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "J9X4V7B1T", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "F2C6Z3D8S", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "M5L1K9G4J", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "P8H3R6W2N", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "X4T9Y2C5V", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "B1Q7F3M8L", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "H6D2J5K9P", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
-    { "clave": "N9S4W8R1T", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 }
+    { "clave": "L4P9K2M7X", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "H2Q5W8N3R", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "T1B7V4X9J", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "S8D3Z6C2F", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "J4G9K1L5M", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "N2W6R3H8P", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "V5C2Y9T4X", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "L8M3F7Q1B", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "P9K5J2D6H", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 },
+    { "clave": "T1R8W4S9N", "fecha_creacion": "2026-10-29T00:00:00", "dias": 7 }
   ],
   "claves_30_dias": [
     { "clave": "A3X8F2L9M", "fecha_creacion": "2026-10-18T00:00:00", "dias": 30 },
