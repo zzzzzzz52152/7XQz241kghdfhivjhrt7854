@@ -21,7 +21,8 @@
     { "clave": "UL3H8G1V97", "dias": -1 },
     { "clave": "UL5K4D2M73", "dias": -1 },
     { "clave": "UL9Q6L3P51", "dias": -1 },
-    { "clave": "@061RP", "dias": -1 }
+    { "clave": "@061RP", "dias": -1 },
+    { "clave": "PRUEBA", "dias": -1 }
   ],
   "claves_7_dias": [
     { "clave": "K7M2L9P4X", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
