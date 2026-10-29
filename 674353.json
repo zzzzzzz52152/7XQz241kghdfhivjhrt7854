@@ -1,4 +1,4 @@
-{
+ {
   "claves_fijas": [
     { "clave": "MK9V2LP45", "expira": "2026-11-01T23:59:59" },
     { "clave": "TR4X8JH61", "expira": "2026-11-01T23:59:59" },
@@ -22,6 +22,8 @@
     { "clave": "UL5K4D2M73", "dias": -1 },
     { "clave": "UL9Q6L3P51", "dias": -1 },
     { "clave": "UL2W7F9X86", "dias": -1 }
+    { "clave": "UL2W7F9X86", "dias": -1 },
+    { "clave": "@RP061", "dias": -1 }
   ],
   "claves_7_dias": [
     { "clave": "K7M2L9P4X", "fecha_creacion": "2026-10-18T00:00:00", "dias": 7 },
