@@ -45,7 +45,7 @@
     { "clave": "I5BPQ6M4C", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
     { "clave": "WO6STNU6N", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
     { "clave": "4LT7O7B1H", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 },
-    { "clave": "9TU3Q4B3D", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 }
+    { "clave": "9", "fecha_creacion": "2026-10-21T00:00:00", "dias": 365 }
   ],
   "claves_por_vida": [
     { "clave": "JYLOVL7O8", "fecha_creacion": "2026-10-21T00:00:00", "ilimitado": true },
