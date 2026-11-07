@@ -60,5 +60,7 @@
     { "clave": "ZVEQ5W3F8D6", "fecha_creacion": "2026-11-01T00:00:00", "dias": 365 },
     { "clave": "ZVEB2M6L1T9", "fecha_creacion": "2026-11-01T00:00:00", "dias": 365 }
   ],
-  "claves_revocadas": []
+  "claves_revocadas": [
+    {ZVETAI2003}
+  ]
 }
