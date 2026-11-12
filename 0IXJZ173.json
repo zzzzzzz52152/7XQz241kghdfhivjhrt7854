@@ -8,7 +8,7 @@
     { "clave": "ZVEL8G3K6X9", "expira": "2026-11-08T23:59:59" },
     { "clave": "ZVEN2Y7J4H1", "expira": "2026-11-08T23:59:59" },
     { "clave": "ZVEC5R9T2M6", "expira": "2026-11-08T23:59:59" },
-    { "clave": "ZVEQ3W1F8L4", "expira": "2026-11-08T23:59:59" },
+    { "clave": "ZVEJOSEGAY", "expira": "2026-11-18T23:59:59" },
     { "clave": "ZRPD", "expira": "2026-11-20T23:59:59" }
   ],
   "claves_ilimitadas": [
@@ -25,7 +25,7 @@
     { "clave": "ALVARO321", "dias": -1 }
   ],
   "claves_7_dias": [
-    { "clave": "ZVEA9K2M4X7", "fecha_creacion": "2026-11-05T00:00:00", "dias": 7 },
+    { "clave": "ZVERPTYQJSK", "fecha_creacion": "2026-11-09T00:00:00", "dias": 7 },
     { "clave": "ZVEW3P8L1N6", "fecha_creacion": "2026-11-09T00:00:00", "dias": 7 },
     { "clave": "ZVER6J2T9H4", "fecha_creacion": "2026-11-11T00:00:00", "dias": 7 },
     { "clave": "ZVEF1C7S5V3", "fecha_creacion": "2026-11-01T00:00:00", "dias": 7 },
