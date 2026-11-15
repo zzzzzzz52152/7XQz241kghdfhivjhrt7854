@@ -1,4 +1,4 @@
-{
+e{
   "claves_fijas": [
     { "clave": "MK9V2LP45", "expira": "2026-11-02T23:59:59" },
     { "clave": "TR4X8JH61", "expira": "2026-11-04T23:59:59" },
@@ -57,7 +57,8 @@
     { "clave": "Z9T1X4F7Q", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
     { "clave": "X4N8J2P5V", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
     { "clave": "C6G3L7K1R", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "V8S9T5W4H", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 }
+    { "clave": "V8S9T5W4H", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "RTX71IPOF", "fecha_creacion": "2026-11-14T00:00:00", "dias": 365 }
   ],
   "claves_revocadas": []
 }
