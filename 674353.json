@@ -48,17 +48,17 @@
     { "clave": "S2X7N1P6K", "fecha_creacion": "2026-10-18T00:00:00", "dias": 30 }
   ],
   "claves_un_ano": [
-    { "clave": "Y1R8W4M9J", "fecha_creacion": "2026-10-17T00:00:00", "dias": 365 },
-    { "clave": "U5K2P6L3X", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "I9H4Q7N2T", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "O3F8V1C6S", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "P7D5Z9H2K", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "L2B6R3W8M", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "Z9T1X4F7Q", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "X4N8J2P5V", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "C6G3L7K1R", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
-    { "clave": "V8S9T5W4H", "fecha_creacion": "2026-11-14T00:00:00", "dias": 365 },
-    { "clave": "RTX71IPOF", "fecha_creacion": "2026-11-14T00:00:00", "dias": 365 }
+    { "clave": "ZVEY1R8W4M9J", "fecha_creacion": "2026-10-17T00:00:00", "dias": 365 },
+    { "clave": "ZVEU5K2P6L3X", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEI9H4Q7N2T", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEO3F8V1C6S", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEP7D5Z9H2K", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEL2B6R3W8M", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEZ9T1X4F7Q", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEX4N8J2P5V", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEC6G3L7K1R", "fecha_creacion": "2026-10-15T00:00:00", "dias": 365 },
+    { "clave": "ZVEV8S9T5W4H", "fecha_creacion": "2026-11-14T00:00:00", "dias": 365 },
+    { "clave": "ZVERTX71IPOF", "fecha_creacion": "2026-11-14T00:00:00", "dias": 365 }
   ],
   "claves_revocadas": []
 }
